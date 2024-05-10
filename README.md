@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Amit Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Abhinash Kumar</h1>
 <h3 align="center">I like to tinker with stuff. That's all I guess.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinash2629&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinash2629" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Abhinash2629" target="blank"><img src="https://img.shields.io/twitter/follow/Abhinash2629?logo=twitter&style=for-the-badge" alt="Abhinash2629" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Abhinash825" target="blank"><img src="https://img.shields.io/twitter/follow/Abhinash825?logo=twitter&style=for-the-badge" alt="Abhinash825" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
