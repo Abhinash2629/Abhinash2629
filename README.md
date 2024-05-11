@@ -11,9 +11,11 @@
 
 - 📝 I regularly write articles on [techaboom360.blogspot.com](https://techaboom360.blogspot.com)
 
-- 📫 How to reach me **https://t.me/amitskr**
+- 📫 How to reach me **https://t.me/Abhinash_21BCS2865**
 
-- 📄 Know about my experiences [amitsarkar.netlify.app](https://amitsarkar.netlify.app)
+<--
+- 📄 Know about my experiences [amitsarkar.netlify.app](https://amitsarkar.netlify.app) 
+-->
 
 - ⚡ Fun fact **I use arch btw.**
 
